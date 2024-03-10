@@ -1,4 +1,7 @@
 **First Iteration**
-  Creation of Controller, Service, Model and Unit Tests Class of a REST API for an order management system.
-  **Choices:**
-    - In this iteration there is no database, all datas are stored in two data structures of Service class. 
+  
+Creation of \`Controller\`, \`Service\`, \`Model\`, and \`Unit Tests\` classes for a \`REST API\` handling order management system.
+
+**Choices:**
+
+- No database is utilized in this iteration; instead, all data is stored within two data structures within the \`Service\` class.
